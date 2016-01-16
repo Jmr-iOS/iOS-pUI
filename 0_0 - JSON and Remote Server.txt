@@ -1,0 +1,3 @@
+use MYSQL or whatever to store and retrieve data remotely
+
+also makes use of JSON files from that remote server

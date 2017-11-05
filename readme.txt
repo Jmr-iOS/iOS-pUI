@@ -35,6 +35,7 @@
 		@src 	see Ref/Howto/Computer/Mac/xCode/conversion procedure.txt
 		@stat 	in progress, add when item is needed! :)
 
+		//xCode 8.3.3
 		Establish project-level .git if not present
 		Open in xCode 8.3.3 (tgt: iPhone 7+ Sim)
 		Allow Keychain Access (all)
@@ -48,6 +49,12 @@
 		Close
 		Zip & replace!
 
+		//xCode 9.1
+		Convert->Next(Match Swift 3)->Next(Ok)->Update
+		Update to Recommended Settings
+		Generate 1024 px icon & apply
+		Deploy (tgt: Justin's iPhone 8)
+		
 
 @section 	App Updates
 	0_0 - Settings.zip			

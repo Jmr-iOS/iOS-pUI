@@ -11,7 +11,8 @@
 	
 @section 	Programmatic UI Naming
 	0_0 for all standard UIKit content
-	0_1 for all standard iOS ui content, (e.g. Music or the Keyboard, PDFs, etc.)
+	0_1 for all standard iOS ui content (e.g. Music or the Keyboard, PDFs, etc.)
+	0_2 for all programming content (e.g. class extensions)
 	1_0 for all example content (e.g. database uses, file writing, etc.)
 		*Use simplest naming when possible (e.g. UISwitch, Music, etc.)
 

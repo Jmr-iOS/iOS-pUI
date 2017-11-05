@@ -27,3 +27,64 @@
 	6. Open Info.plist, and set the “Main storyboard file base name” field to empty, “”
 	7. Open the AppDelegate.swift and update the file to the following - 
 
+
+
+
+
+@section 	Update Steps
+		@src 	see Ref/Howto/Computer/Mac/xCode/conversion procedure.txt
+		@stat 	in progress, add when item is needed! :)
+
+		Establish project-level .git if not present
+		Open in xCode 8.3.3 (tgt: iPhone 7+ Sim)
+		Allow Keychain Access (all)
+		A->'Convert'->'Next'->'Save'
+		B->Double-Click->'Perform Changes'
+		Product->Clean
+		Product->Build
+			*ignore all 'no trait info' warnings for now
+		Explicit Errors -> '!'
+		Run (Sim)
+		Close
+		Zip & replace!
+
+
+@section 	App Updates
+	0_0 - Settings.zip			
+	0_0 - UITabBar.zip
+	0_0 - Struts and Springs.txt		
+[X]	0_0 - UITableView.zip
+	0_0 - UIActivityIndicatorView.zip	
+[X]	0_0 - UITextField.zip
+	0_0 - UIAlertController.zip		
+[X]	0_0 - UITextView.zip
+[X]	0_0 - Empty Template (Obj C).zip	
+	0_0 - UIAlertView.zip			
+	0_0 - UIView.zip
+[X]	0_0 - Empty Template (Swift).zip	
+	0_0 - UIButton.zip			
+	0_0 - Web Servers.zip
+	0_0 - Features.zip			
+	0_0 - UICheckbox.zip			
+	0_0 - aNoteTable.zip
+	0_0 - JSON and Remote Server.txt	
+	0_0 - UIDatePicker.zip
+	0_0 - mySQL.zip
+	0_0 - NSCoding.zip			
+	0_0 - UIGraph.zip			
+	0_1 - Contacts.zip
+	0_0 - Navigation Bars.txt		
+	0_0 - UIImageView.zip			
+	0_1 - Keyboard Toolbar.zip
+	0_0 - Notifications.zip			
+	0_0 - UILabel.zip			
+	0_1 - PDF - in prog.zip
+	0_0 - NumberField.zip			
+	0_0 - UIPickerView.txt			
+	0_1 - Table (resizing).zip
+	0_0 - Push Notification.zip		
+	0_0 - UISegmentedControl.txt		
+	0_1 - UIKeyboardMenuBar.zip
+	0_0 - Sensors.zip			
+	0_0 - UISwitch.zip
+

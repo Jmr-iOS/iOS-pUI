@@ -9,10 +9,10 @@
 	XCode's magical, mysterious use of file referencing and hierarchies, which baffles us at this time and is mitigated at all costs.
 	
 @section 	Programmatic UI Naming
-	0_0 for all standard UIKit content
-	0_1 for all standard iOS ui content (e.g. Music or the Keyboard, PDFs, etc.)
-	0_2 for all programming content (e.g. class extensions)
-	1_0 for all example content (e.g. database uses, file writing, etc.)
+	0_0 for all standard UIKit content	(e.g. UITextView)
+	0_1! for all programming content 	(e.g. class extensions)
+	0_2! for all standard iOS ui content (e.g. Music or the Keyboard, PDFs)
+	1_0 for all example content 		(e.g. database uses, file writing)
 		*Use simplest naming when possible (e.g. UISwitch, Music, etc.)
 
 @section 	0_0a - Empty Template (Swift)

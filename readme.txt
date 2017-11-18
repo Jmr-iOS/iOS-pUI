@@ -1,7 +1,7 @@
 @brief 		Reference examples for creating iOS GUI elements programatically
 @details 	This is not published and non-standard in iOS, examples required for successful dev
 @auth 		Justin Reina
-@date 		11/9/17
+@date 		11/18/17
 
 
 @section 	Programmatic UI Content Use
@@ -59,6 +59,7 @@
 @section	Opens
 	Finalize DataBackup, confirm operations with complete documentation. Integrate into
 	library if possible
+	Copmplete individual repo GitHub pushes (only partial complete, and updated in Zip)
 	All  projects get unique launch names, enabling unique app instances on phone!
 	Working UIGraph demo
 	Keyboard Toolbar Bug - Correct Sizing onscreen
